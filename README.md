@@ -1,7 +1,9 @@
 # G1B6_BED_GradedProject4
 ## This repository consists of the code for Employee Management REST API with Spring Security 
+### You are required to create a Employee Management Rest Api based Web application, where you will be developing CRUD(Create,Read,Update and Delete) functionality along with Sorting and some concepts of security.Your Rest Api should be secure.And should have different endpoints for different operations
 
 * This is a Spring REST APIs Project built using Spring Boot.
+* The project is in 'SpringSecurityRest' folder in this repo
 * The main package is : com.glearning.SpringSecurityRest which conatins the driver class of the application.
 * The URL to access the application is : 
 * There are 6 sub-packages :
