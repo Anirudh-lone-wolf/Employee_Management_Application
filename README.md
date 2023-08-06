@@ -15,4 +15,4 @@
     * com.glearning.SpringSecurityRest.security - This contains the Role-Based Authorization code.
     * **com.glearning.SpringSecurityRest.testdata -This is the additional package which conatins a set of dummy employees, which will load on application start**
 * The database used in the Project is MYSQL Database. **PLEASE ENTER YOU OWN MYSQL PASSWORD in application.properties**.
-* The name of teh database we use in the project is 'empsecuritydb', use the same or create you own database for using this application. 
+* The name of the database we use in the project is 'empsecuritydb', use the same or create you own database for using this application. 
